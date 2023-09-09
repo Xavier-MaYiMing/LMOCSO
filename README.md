@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![Pareto front](/Users/xavier/Desktop/Xavier Ma/个人算法主页/LMOCSO/Pareto front.png)
+![](https://github.com/Xavier-MaYiMing/LMOCSO/blob/main/Pareto%20front.png)
 
 
 
